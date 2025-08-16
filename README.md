@@ -41,7 +41,7 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PramodaChandru&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PramodaChandru&theme=dracula&no-frame=true&row=1&column=4" alt="trophies"/>
 </p>
 
 ---
