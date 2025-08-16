@@ -46,21 +46,5 @@
 
 ---
 
-## 📂 Featured Projects  
-<a href="https://github.com/PramodaChandru/RepairMate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodaChandru&repo=RepairMate&theme=radical" />
-</a>
-<a href="https://github.com/PramodaChandru/E-Commerce-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodaChandru&repo=E-Commerce-App&theme=radical" />
-</a>
-<a href="https://github.com/PramodaChandru/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodaChandru&repo=Portfolio&theme=radical" />
-</a>
-<a href="https://github.com/PramodaChandru/SpringBoot-Microservices">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PramodaChandru&repo=SpringBoot-Microservices&theme=radical" />
-</a>
-
----
-
 ## 🎉 Fun Fact  
 ⚡ When I'm not coding, you’ll find me exploring **AI, Cloud, or working on side projects**.  
